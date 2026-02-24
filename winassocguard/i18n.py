@@ -45,7 +45,7 @@ _TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "btn_restore_selected": "恢复选中",
         "btn_restore_all": "恢复全部",
         "btn_edit_baseline": "修改基准…",
-        "btn_switch_lang": "中/英",
+        "btn_switch_lang": "中文/English",
         "btn_hide": "隐藏到托盘",
         "btn_exit": "退出程序",
 
@@ -216,7 +216,7 @@ _TRANSLATIONS: Dict[str, Dict[str, str]] = {
         "btn_restore_selected": "Restore Selected",
         "btn_restore_all": "Restore All",
         "btn_edit_baseline": "Edit Baseline…",
-        "btn_switch_lang": "ZH/EN",
+        "btn_switch_lang": "中文/English",
         "btn_hide": "Hide to Tray",
         "btn_exit": "Exit",
 
