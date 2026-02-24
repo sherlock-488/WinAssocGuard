@@ -1,0 +1,10 @@
+{
+  "language": "zh",
+  "protected_exts": [],
+  "last_known_progid": {},
+  "monitor_interval_sec": 3.0,
+  "notifications_enabled": true,
+  "auto_restore_enabled": true,
+  "auto_start_enabled": false
+}
+
